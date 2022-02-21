@@ -1,3 +1,3 @@
 # Background Generator
 
-![](media/background-generator.gif)
+![](media/background_generator.gif)
