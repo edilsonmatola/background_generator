@@ -1,2 +1,3 @@
-# background_generator
-Change the background color of the page and see CSS code. 
+# Background Generator
+
+![](media/background-generator.gif)
